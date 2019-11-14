@@ -1,0 +1,47 @@
+open source
+npm- node package manager
+>>>> local package
+>>>> global package
+>>>> setup, create, build and test
+
+JSON-->> JAVASCRIPT OBJECT NOTATION
+data representation
+data type in JS>>>
+string: "jasmeet", "897"
+number: 56677, 89899.98
+boolean: true/false
+[
+    {
+        name:"John",
+        class:"angular"
+    },
+    {
+        name:"Alis",
+        class:"UI"
+    }
+]
+
+package.JSON
+first flie and entry file to application
+version
+name
+start command
+test command
+description
+dependencies
+devdependencies
+
+>>>>>Step to create package.JSON<<<<<
+
+-> go inside the folder with cmd/terminal
+npm init
+Answer all ques
+say yes
+enter
+
+>>>Step to setup angular app<<<
+-> install cli globally
+--> npm i -g @angular/cli
+-> go inside the folder where you want application with cmd/terminal
+-> ng new thirdapp
+
